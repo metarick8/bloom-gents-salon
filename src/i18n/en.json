@@ -1,0 +1,157 @@
+{
+  "navbar": {
+    "brand": "LUXE BARBER",
+    "about": "About",
+    "services": "Services",
+    "team": "Team",
+    "gallery": "Gallery",
+    "booking": "Booking",
+    "contact": "Contact",
+    "bookNow": "Book Now"
+  },
+  "hero": {
+    "title": "Precision. Style. Identity.",
+    "subtitle": "Experience the art of traditional grooming with modern sophistication. Where every cut tells your story.",
+    "bookAppointment": "Book Appointment",
+    "viewServices": "View Services"
+  },
+  "about": {
+    "title": "Craftsmanship Meets Style",
+    "subtitle": "Where tradition meets contemporary excellence in men's grooming.",
+    "description": "For over a decade, we've been redefining the barbershop experience. Our master barbers combine time-honored techniques with modern styling to create looks that are both classic and contemporary.",
+    "features": {
+      "precision": "Precision Cuts",
+      "precisionDesc": "Every detail matters in creating your perfect look.",
+      "premium": "Premium Products",
+      "premiumDesc": "We use only the finest grooming products for your hair and skin.",
+      "personalized": "Personalized Service",
+      "personalizedDesc": "Tailored consultations to match your unique style and needs."
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Premium grooming experiences designed for the modern gentleman.",
+    "classicCut": {
+      "title": "Classic Cut",
+      "description": "Traditional haircut with precision styling",
+      "price": "AED 120"
+    },
+    "skinFade": {
+      "title": "Skin Fade",
+      "description": "Modern fade with seamless blending",
+      "price": "AED 150"
+    },
+    "beardSculpting": {
+      "title": "Beard Sculpting",
+      "description": "Expert beard shaping and detailing",
+      "price": "AED 100"
+    },
+    "royalShave": {
+      "title": "Royal Shave",
+      "description": "Luxury hot towel straight razor shave",
+      "price": "AED 180"
+    },
+    "hairTreatment": {
+      "title": "Hair Treatment",
+      "description": "Deep conditioning and scalp treatment",
+      "price": "AED 200"
+    },
+    "groomingPackage": {
+      "title": "Grooming Package",
+      "description": "Complete grooming experience",
+      "price": "AED 350"
+    }
+  },
+  "team": {
+    "title": "Master Barbers",
+    "subtitle": "Meet the artists behind your perfect look.",
+    "member1": {
+      "name": "Ahmed Hassan",
+      "position": "Master Barber",
+      "description": "15+ years of experience in classic and modern cuts"
+    },
+    "member2": {
+      "name": "Khalid Omar",
+      "position": "Senior Barber",
+      "description": "Specialist in beard styling and grooming"
+    },
+    "member3": {
+      "name": "Yousef Ali",
+      "position": "Barber Stylist",
+      "description": "Expert in contemporary hairstyles and trends"
+    }
+  },
+  "gallery": {
+    "title": "Our Work",
+    "subtitle": "Gallery of our finest grooming transformations.",
+    "viewLook": "View Look"
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "testimonial1": {
+      "text": "The best barbershop experience I've ever had. Attention to detail is unmatched.",
+      "author": "Mohammed Al Mansouri"
+    },
+    "testimonial2": {
+      "text": "Professional service with a luxury feel. My go-to place for grooming.",
+      "author": "Saeed Khalifa"
+    },
+    "testimonial3": {
+      "text": "Exceptional skill and atmosphere. They truly understand modern men's grooming.",
+      "author": "Abdullah Nasser"
+    }
+  },
+  "booking": {
+    "title": "Book Your Appointment",
+    "subtitle": "Schedule your grooming experience with our master barbers.",
+    "description": "Choose your preferred service and time slot. We'll confirm your appointment via WhatsApp.",
+    "form": {
+      "name": "Full Name",
+      "phone": "Phone Number",
+      "service": "Select Service",
+      "date": "Preferred Date",
+      "time": "Preferred Time",
+      "submit": "Book Appointment"
+    },
+    "whatsapp": "Or book via WhatsApp"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "closed": "Closed"
+  },
+  "location": {
+    "title": "Visit Us",
+    "address": "Al Maryah Island, Abu Dhabi, United Arab Emirates"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We're here to answer your questions and book your appointment.",
+    "form": {
+      "name": "Your Name",
+      "email": "Email Address",
+      "message": "Message",
+      "submit": "Send Message"
+    },
+    "info": {
+      "phone": "+971 2 123 4567",
+      "email": "info@luxebarber.ae",
+      "address": "Al Maryah Island, Abu Dhabi",
+      "instagram": "@luxebarberuae",
+      "facebook": "Luxe Barber Abu Dhabi"
+    }
+  },
+  "footer": {
+    "brand": "LUXE BARBER",
+    "description": "Precision grooming for the modern gentleman.",
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us",
+    "copyright": "© 2024 LUXE BARBER. All rights reserved."
+  }
+}
