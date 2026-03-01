@@ -39,7 +39,7 @@ const Location = () => {
             {/* Google Maps Embed */}
             <div className="relative h-96 md:h-[500px]">
               <iframe
-                src="https://www.google.com/maps/place/The+barber+shop+bloom+%D8%A8%D9%84%D9%88%D9%85+%D9%84%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9+%D8%A7%D9%84%D8%B1%D8%AC%D8%A7%D9%84%D9%8A%D8%A9%E2%80%AD/@33.3299425,44.3527291,13.65z/data=!4m6!3m5!1s0x15577f0045f523ef:0x2a8e8118bf036bbe!8m2!3d33.3093166!4d44.3672283!16s%2Fg%2F11ykqc5vt5?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D"
+                src="https://maps.app.goo.gl/3gTMxyLvK8njPCWQA"
                 width="600"
                 height="450"
                 style={{ border: 0 }}

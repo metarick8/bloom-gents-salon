@@ -23,22 +23,22 @@ const Footer = () => {
   const socialLinks = [
     {
       icon: Instagram,
-      href: 'https://instagram.com/luxebarberuae',
+      href: 'https://instagram.com/blomgentsalon',
       label: 'Instagram',
     },
     {
       icon: Facebook,
-      href: 'https://facebook.com/LuxeBarberAbuDhabi',
+      href: 'https://facebook.com/BlomGentsSalon',
       label: 'Facebook',
     },
     {
       icon: Mail,
-      href: 'mailto:info@luxebarber.ae',
+      href: 'mailto:blomgentsalon@gmail.com',
       label: 'Email',
     },
     {
       icon: Phone,
-      href: 'tel:+97121234567',
+      href: 'tel:+9647744442259',
       label: 'Phone',
     },
   ];

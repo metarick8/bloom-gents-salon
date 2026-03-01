@@ -30,36 +30,36 @@
   },
   "services": {
     "title": "Our Services",
-    "subtitle": "Premium grooming experiences designed for the modern gentleman.",
+    "subtitle": "Premium grooming services tailored to the modern gentleman.",
     "classicCut": {
       "title": "Classic Cut",
-      "description": "Traditional haircut with precision styling",
-      "price": "AED 120"
+      "description": "Traditional haircut with precision styling and finishing touches.",
+      "price": "25,000 IQD"
     },
     "skinFade": {
       "title": "Skin Fade",
-      "description": "Modern fade with seamless blending",
-      "price": "AED 150"
+      "description": "Ultra-close fade technique for a sharp, clean look.",
+      "price": "30,000 IQD"
     },
     "beardSculpting": {
       "title": "Beard Sculpting",
-      "description": "Expert beard shaping and detailing",
-      "price": "AED 100"
+      "description": "Expert beard shaping and trimming for the perfect facial hair style.",
+      "price": "20,000 IQD"
     },
     "royalShave": {
       "title": "Royal Shave",
-      "description": "Luxury hot towel straight razor shave",
-      "price": "AED 180"
+      "description": "Traditional hot towel shave with premium products and techniques.",
+      "price": "35,000 IQD"
     },
     "hairTreatment": {
       "title": "Hair Treatment",
-      "description": "Deep conditioning and scalp treatment",
-      "price": "AED 200"
+      "description": "Deep conditioning and treatment for healthy, vibrant hair.",
+      "price": "40,000 IQD"
     },
     "groomingPackage": {
       "title": "Grooming Package",
-      "description": "Complete grooming experience",
-      "price": "AED 350"
+      "description": "Complete grooming experience including cut, shave, and treatment.",
+      "price": "75,000 IQD"
     }
   },
   "team": {
@@ -141,7 +141,7 @@
     },
     "whatsapp": {
       "number": "+9647744442259",
-      "message": "Hi! I'd like to book an appointment at Blom Gents Salon."
+      "message": "Hi! I'd like to book an appointment at Bloom Gents Salon."
     },
     "info": {
       "phone": "+964 774 444 2259",
@@ -152,10 +152,10 @@
     }
   },
   "footer": {
-    "brand": "LUXE BARBER",
+    "brand": "Bloom Gents Salon",
     "description": "Precision grooming for the modern gentleman.",
     "quickLinks": "Quick Links",
     "followUs": "Follow Us",
-    "copyright": "© 2024 LUXE BARBER. All rights reserved."
+    "copyright": "© 2026 Bloom Gents Salon. All rights reserved."
   }
 }
