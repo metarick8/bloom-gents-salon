@@ -127,8 +127,8 @@
     "closed": "Closed"
   },
   "location": {
-    "title": "Visit Us",
-    "address": "Al Maryah Island, Abu Dhabi, United Arab Emirates"
+    "title": "Find Us",
+    "address": "8958+RRX Worod Kindergartens, Baghdad, Baghdad Governorate, Iraq"
   },
   "contact": {
     "title": "Get in Touch",
@@ -139,12 +139,16 @@
       "message": "Message",
       "submit": "Send Message"
     },
+    "whatsapp": {
+      "number": "+9647744442259",
+      "message": "Hi! I'd like to book an appointment at Blom Gents Salon."
+    },
     "info": {
-      "phone": "+971 2 123 4567",
-      "email": "info@luxebarber.ae",
-      "address": "Al Maryah Island, Abu Dhabi",
-      "instagram": "@luxebarberuae",
-      "facebook": "Luxe Barber Abu Dhabi"
+      "phone": "+964 774 444 2259",
+      "email": "blomgentsalon@gmail.com",
+      "address": "Worod Kindergartens, Baghdad, Baghdad Governorate, Iraq",
+      "instagram": "@blomgentsalon",
+      "facebook": "Blom Gents Salon"
     }
   },
   "footer": {

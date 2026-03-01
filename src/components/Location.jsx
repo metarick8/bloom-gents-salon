@@ -39,17 +39,16 @@ const Location = () => {
             {/* Google Maps Embed */}
             <div className="relative h-96 md:h-[500px]">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3632.1234567890!2d54.3773!3d24.4539!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjTCsDI3JzE0LjAiTiA1NMKwMjInMjcuMiJF!5e0!3m2!1sen!2sae!4v1234567890"
-                width="100%"
-                height="100%"
-                style={{ border: 0, filter: 'grayscale(100%)' }}
+                src="https://www.google.com/maps/place/The+barber+shop+bloom+%D8%A8%D9%84%D9%88%D9%85+%D9%84%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9+%D8%A7%D9%84%D8%B1%D8%AC%D8%A7%D9%84%D9%8A%D8%A9%E2%80%AD/@33.3299425,44.3527291,13.65z/data=!4m6!3m5!1s0x15577f0045f523ef:0x2a8e8118bf036bbe!8m2!3d33.3093166!4d44.3672283!16s%2Fg%2F11ykqc5vt5?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D"
+                width="600"
+                height="450"
+                style={{ border: 0 }}
                 allowFullScreen=""
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
-                title="Luxe Barber Location"
-                className="w-full h-full"
+                className="w-full rounded-lg shadow-xl filter grayscale hover:grayscale-0 transition-all duration-700"
               />
-              
+
               {/* Overlay */}
               <div className="absolute inset-0 bg-black/20 pointer-events-none"></div>
             </div>

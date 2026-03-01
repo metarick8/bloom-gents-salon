@@ -128,11 +128,15 @@
   },
   "location": {
     "title": "زرنا",
-    "address": "جزيرة السمحة، أبوظبي، الإمارات العربية المتحدة"
+    "address": "8958+RRX Worod Kindergartens, Baghdad, Baghdad Governorate, Iraq"
   },
   "contact": {
     "title": "تواصل معنا",
     "subtitle": "نحن هنا للإجابة على أسئلتك وحجز موعدك.",
+    "whatsapp": {
+      "number": "+9647744442259",
+      "message": "مرحبا! أود حجز موعد في صالون بلوم للرجال."
+    },
     "form": {
       "name": "اسمك",
       "email": "البريد الإلكتروني",
@@ -140,11 +144,11 @@
       "submit": "إرسال الرسالة"
     },
     "info": {
-      "phone": "+971 2 123 4567",
-      "email": "info@luxebarber.ae",
-      "address": "جزيرة السمحة، أبوظبي",
-      "instagram": "@luxebarberuae",
-      "facebook": "Luxe Barber Abu Dhabi"
+      "phone": "+964 774 444 2259",
+      "email": "blomgentsalon@gmail.com",
+      "address": "ورود حضانة، بغداد، محافظة بغداد، العراق",
+      "instagram": "@blomgentsalon",
+      "facebook": "Blom Gents Salon"
     }
   },
   "footer": {
