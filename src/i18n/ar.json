@@ -1,12 +1,15 @@
 {
   "navbar": {
-    "brand": "لوكس باربر",
+    "brand": "بلوم للرجال",
     "about": "من نحن",
     "services": "الخدمات",
     "team": "الفريق",
-    "gallery": "معرض الأعمال",
+    "gallery": "المعرض",
+    "testimonials": "الشهادات",
     "booking": "الحجز",
-    "contact": "اتصل بنا",
+    "hours": "الساعات",
+    "location": "الموقع",
+    "contact": "تواصل",
     "bookNow": "احجز الآن"
   },
   "hero": {

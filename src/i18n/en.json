@@ -1,11 +1,14 @@
 {
   "navbar": {
-    "brand": "LUXE BARBER",
+    "brand": "Bloom Gents Salon",
     "about": "About",
     "services": "Services",
     "team": "Team",
     "gallery": "Gallery",
+    "testimonials": "Testimonials",
     "booking": "Booking",
+    "hours": "Hours",
+    "location": "Location",
     "contact": "Contact",
     "bookNow": "Book Now"
   },
